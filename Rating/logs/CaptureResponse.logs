@@ -1,0 +1,444 @@
+31/03/2018 06:40:36 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 06:42:36 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 06:45:33 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 06:46:47 ResponseCaptureOntario TC11000040 Started at....... 2018-03-31-064647
+31/03/2018 06:46:47 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 06:49:45 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 06:51:55 ResponseCaptureOntario TC11000040 Started at....... 2018-03-31-065155
+31/03/2018 06:51:56 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 07:02:45 ResponseCaptureOntario TC11000040 Started at....... 2018-03-31-070245
+31/03/2018 07:02:46 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 07:05:25 ResponseCaptureOntario TC11000040 Started at....... 2018-03-31-070525
+31/03/2018 07:05:26 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 07:09:49 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 07:10:46 ResponseCaptureOntario TC11000040 Started at....... 2018-03-31-071046
+31/03/2018 07:10:47 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 07:16:41 ResponseCaptureOntario TC11000040 Started at....... 2018-03-31-071641
+31/03/2018 07:16:59 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 07:22:24 ResponseCaptureOntario TC11000040 Started at....... 2018-03-31-072224
+31/03/2018 07:22:25 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+31/03/2018 07:22:25 ResponseCaptureOntario Status is: https://49.9.220.190:2155/wsw/tdigi/services/CalculateAutoPremium/v4: cvc-simple-type 1: element IsDriverTraining of type {http://www.w3.org/2001/XMLSchema}boolean may not be empty
+31/03/2018 07:22:25 ResponseCaptureOntario Status is: 500
+31/03/2018 07:22:25 ResponseCaptureOntario org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+31/03/2018 07:22:25 ResponseCaptureOntario TC11000040 Completed at....... 2018-03-31-072225
+02/04/2018 07:09:53 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-070953
+02/04/2018 07:09:53 ResponseCaptureOntario org.xml.sax.SAXParseException; systemId: file:///C:/API/Rating/QuickWin_Auto_Quote/Rating/Request/TC11000072.xml; lineNumber: 227; columnNumber: 23; The entity name must immediately follow the '&' in the entity reference.
+02/04/2018 07:12:34 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-071234
+02/04/2018 07:12:34 ResponseCaptureOntario org.xml.sax.SAXParseException; systemId: file:///C:/API/Rating/QuickWin_Auto_Quote/Rating/Request/TC11000072.xml; lineNumber: 227; columnNumber: 23; The entity name must immediately follow the '&' in the entity reference.
+02/04/2018 07:15:22 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-071522
+02/04/2018 07:15:22 ResponseCaptureOntario org.xml.sax.SAXParseException; systemId: file:///C:/API/Rating/QuickWin_Auto_Quote/Rating/Request/TC11000072.xml; lineNumber: 227; columnNumber: 23; The entity name must immediately follow the '&' in the entity reference.
+02/04/2018 08:07:17 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-080717
+02/04/2018 08:07:20 ResponseCaptureOntario Status is: 200
+02/04/2018 08:07:20 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:07:20 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:07:20 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-080720
+02/04/2018 08:13:51 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-081351
+02/04/2018 08:14:43 ResponseCaptureOntario Status is: 200
+02/04/2018 08:15:01 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:15:01 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:15:08 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-081507
+02/04/2018 08:19:02 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-081902
+02/04/2018 08:19:02 ResponseCaptureOntario org.xml.sax.SAXParseException; systemId: file:///C:/API/Rating/QuickWin_Auto_Quote/Rating/Request/TC11000072.xml; lineNumber: 79; columnNumber: 27; The entity name must immediately follow the '&' in the entity reference.
+02/04/2018 08:20:09 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-082009
+02/04/2018 08:20:10 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+02/04/2018 08:20:10 ResponseCaptureOntario Status is: https://49.9.220.190:2155/wsw/tdigi/services/CalculateAutoPremium/v4: cvc-simple-type 1: element AccidentBenefit of type {http://www.w3.org/2001/XMLSchema}integer may not be empty
+02/04/2018 08:20:10 ResponseCaptureOntario Status is: 500
+02/04/2018 08:20:10 ResponseCaptureOntario org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+02/04/2018 08:20:10 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-082010
+02/04/2018 08:35:30 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-083530
+02/04/2018 08:35:31 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+02/04/2018 08:35:31 ResponseCaptureOntario Status is: https://49.9.220.190:2155/wsw/tdigi/services/CalculateAutoPremium/v4: cvc-simple-type 1: element AccidentBenefit of type {http://www.w3.org/2001/XMLSchema}integer may not be empty
+02/04/2018 08:35:31 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+02/04/2018 08:35:31 ResponseCaptureOntario Status is: 500
+02/04/2018 08:35:31 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+02/04/2018 08:35:31 ResponseCaptureOntario org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+02/04/2018 08:35:31 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-083531
+02/04/2018 08:37:46 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-083746
+02/04/2018 08:37:47 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+02/04/2018 08:37:47 ResponseCaptureOntario Status is: https://49.9.220.190:2155/wsw/tdigi/services/CalculateAutoPremium/v4: cvc-simple-type 1: element AccidentBenefit of type {http://www.w3.org/2001/XMLSchema}integer may not be empty
+02/04/2018 08:37:47 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+02/04/2018 08:37:47 ResponseCaptureOntario Status is: 500
+02/04/2018 08:37:47 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+02/04/2018 08:37:47 ResponseCaptureOntario org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+02/04/2018 08:37:47 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-083747
+02/04/2018 08:38:18 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-083818
+02/04/2018 08:38:20 ResponseCaptureOntario Status is: 200
+02/04/2018 08:38:20 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:38:20 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:38:20 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-083820
+02/04/2018 08:39:58 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-083958
+02/04/2018 08:40:00 ResponseCaptureOntario Status is: 200
+02/04/2018 08:40:00 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:40:00 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:40:00 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-084000
+02/04/2018 08:41:21 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-084121
+02/04/2018 08:41:23 ResponseCaptureOntario Status is: 200
+02/04/2018 08:41:23 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:41:23 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:41:23 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-084123
+02/04/2018 08:42:31 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-084231
+02/04/2018 08:42:33 ResponseCaptureOntario Status is: 200
+02/04/2018 08:42:33 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:42:33 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:42:33 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-084233
+02/04/2018 08:42:34 ResponseCaptureOntario TC11000081 Started at....... 2018-04-02-084234
+02/04/2018 08:42:35 ResponseCaptureOntario Status is: 200
+02/04/2018 08:42:35 ResponseCaptureOntario VehicleDriverUsage count: 4
+02/04/2018 08:42:35 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: TPL
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :1415
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: AB
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :98
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: COL
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :801
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: CMP
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :377
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 39
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :139
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 44
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :20
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 6A
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :151
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 13D
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 38
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :30
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 4B
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 9
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 19A
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 40
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: TPL
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: AB
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: COL
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: CMP
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 39
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 44
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 6A
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 13D
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 38
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 4B
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 9
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 19A
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 40
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: TPL
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :588
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: AB
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :28
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: AP
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :516
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: COL
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :418
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: CMP
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :165
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: SPE
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :155
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 39
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :62
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 43S
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :105
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 44
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :20
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 13D
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 13H
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 9
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 19
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 23A
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 23B
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :50
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 28
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 40
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: TPL
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: AB
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: AP
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: COL
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: CMP
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: SPE
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 39
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 43S
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 44
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 13D
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 13H
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 9
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 19
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 23A
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 23B
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 28
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario Coverage name: 40
+02/04/2018 08:42:35 ResponseCaptureOntario TermAmount :0
+02/04/2018 08:42:35 ResponseCaptureOntario TC11000081 Completed at....... 2018-04-02-084235
+02/04/2018 08:43:38 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-084338
+02/04/2018 08:47:21 ResponseCaptureOntario Status is: 200
+02/04/2018 08:47:22 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:47:22 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:47:22 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-084722
+02/04/2018 08:48:03 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-084803
+02/04/2018 08:48:14 ResponseCaptureOntario Status is: 200
+02/04/2018 08:48:14 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:48:14 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:48:14 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-084814
+02/04/2018 08:48:53 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-084853
+02/04/2018 08:48:55 ResponseCaptureOntario Status is: 200
+02/04/2018 08:48:55 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:48:55 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:48:55 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-084855
+02/04/2018 08:49:13 ResponseCaptureOntario TC11000072 Started at....... 2018-04-02-084913
+02/04/2018 08:49:31 ResponseCaptureOntario Status is: 200
+02/04/2018 08:50:04 ResponseCaptureOntario VehicleDriverUsage count: 1
+02/04/2018 08:50:04 ResponseCaptureOntario VehicleDriverUsage
+02/04/2018 08:50:04 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-02-085004
+03/04/2018 02:19:54 ResponseCaptureOntario TC11000072 Started at....... 2018-04-03-021954
+03/04/2018 02:19:55 ResponseCaptureOntario Status is: 200
+03/04/2018 02:19:55 ResponseCaptureOntario VehicleDriverUsage count: 1
+03/04/2018 02:19:55 ResponseCaptureOntario VehicleDriverUsage
+03/04/2018 02:19:55 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-03-021955
+03/04/2018 02:21:56 ResponseCaptureOntario TC11000072 Started at....... 2018-04-03-022156
+03/04/2018 02:21:57 ResponseCaptureOntario Status is: 200
+03/04/2018 02:24:06 ResponseCaptureOntario VehicleDriverUsage count: 1
+03/04/2018 02:24:48 ResponseCaptureOntario VehicleDriverUsage
+03/04/2018 02:25:56 ResponseCaptureOntario TC11000072 Started at....... 2018-04-03-022556
+03/04/2018 02:25:57 ResponseCaptureOntario Status is: 200
+03/04/2018 02:26:18 ResponseCaptureOntario VehicleDriverUsage count: 1
+03/04/2018 02:26:19 ResponseCaptureOntario VehicleDriverUsage
+03/04/2018 02:57:49 ResponseCaptureOntario TC11000072 Started at....... 2018-04-03-025749
+03/04/2018 02:57:49 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+03/04/2018 02:57:49 ResponseCaptureOntario Status is: https://49.9.220.190:2155/wsw/tdigi/services/CalculateAutoPremium/v4: cvc-simple-type 1: element NumberOfYear of type {http://www.w3.org/2001/XMLSchema}integer may not be empty
+03/04/2018 02:57:49 ResponseCaptureOntario Status is: 500
+03/04/2018 02:57:50 ResponseCaptureOntario org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+03/04/2018 02:57:50 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-03-025750
+03/04/2018 03:15:12 ResponseCaptureOntario TC11000072 Started at....... 2018-04-03-031512
+03/04/2018 03:15:12 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+03/04/2018 03:15:12 ResponseCaptureOntario Status is: https://49.9.220.190:2155/wsw/tdigi/services/CalculateAutoPremium/v4: cvc-simple-type 1: element NumberOfYear of type {http://www.w3.org/2001/XMLSchema}integer may not be empty
+03/04/2018 03:15:12 ResponseCaptureOntario Status is: 500
+03/04/2018 03:15:13 ResponseCaptureOntario org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+03/04/2018 03:15:13 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-03-031513
+04/04/2018 01:52:08 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-015208
+04/04/2018 01:52:10 ResponseCaptureOntario Status is: 200
+04/04/2018 01:52:10 ResponseCaptureOntario VehicleDriverUsage count: 1
+04/04/2018 01:52:10 ResponseCaptureOntario VehicleDriverUsage
+04/04/2018 01:52:10 ResponseCaptureOntario Coverage name: TPL
+04/04/2018 01:52:10 ResponseCaptureOntario TermAmount :481
+04/04/2018 01:52:10 ResponseCaptureOntario Coverage name: AB
+04/04/2018 01:52:10 ResponseCaptureOntario TermAmount :36
+04/04/2018 01:52:10 ResponseCaptureOntario Coverage name: COL
+04/04/2018 01:52:10 ResponseCaptureOntario TermAmount :274
+04/04/2018 01:52:10 ResponseCaptureOntario Coverage name: CMP
+04/04/2018 01:52:10 ResponseCaptureOntario TermAmount :134
+04/04/2018 01:52:10 ResponseCaptureOntario Coverage name: 44
+04/04/2018 01:52:10 ResponseCaptureOntario TermAmount :30
+04/04/2018 01:52:10 ResponseCaptureOntario Coverage name: 13D
+04/04/2018 01:52:10 ResponseCaptureOntario TermAmount :0
+04/04/2018 01:52:10 ResponseCaptureOntario Coverage name: 9
+04/04/2018 01:52:10 ResponseCaptureOntario TermAmount :0
+04/04/2018 01:52:10 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-015210
+04/04/2018 01:58:38 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-015838
+04/04/2018 01:58:40 ResponseCaptureOntario Status is: 200
+04/04/2018 01:58:40 ResponseCaptureOntario VehicleDriverUsage count: 1
+04/04/2018 01:58:40 ResponseCaptureOntario VehicleDriverUsage
+04/04/2018 01:58:40 ResponseCaptureOntario Coverage name: TPL
+04/04/2018 01:58:40 ResponseCaptureOntario TermAmount :481
+04/04/2018 01:58:40 ResponseCaptureOntario Coverage name: AB
+04/04/2018 01:58:40 ResponseCaptureOntario TermAmount :36
+04/04/2018 01:58:40 ResponseCaptureOntario Coverage name: COL
+04/04/2018 01:58:40 ResponseCaptureOntario TermAmount :274
+04/04/2018 01:58:40 ResponseCaptureOntario Coverage name: CMP
+04/04/2018 01:58:40 ResponseCaptureOntario TermAmount :134
+04/04/2018 01:58:40 ResponseCaptureOntario Coverage name: 44
+04/04/2018 01:58:40 ResponseCaptureOntario TermAmount :30
+04/04/2018 01:58:40 ResponseCaptureOntario Coverage name: 13D
+04/04/2018 01:58:40 ResponseCaptureOntario TermAmount :0
+04/04/2018 01:58:40 ResponseCaptureOntario Coverage name: 9
+04/04/2018 01:58:40 ResponseCaptureOntario TermAmount :0
+04/04/2018 01:58:40 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-015840
+04/04/2018 02:00:19 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-020019
+04/04/2018 02:00:20 ResponseCaptureOntario java.io.IOException: Server returned HTTP response code: 500 for URL: https://esb.services.sys.tdgroup.com/wsw/tdigi/services/CalculateAutoPremium/v4
+04/04/2018 02:00:20 ResponseCaptureOntario Status is: https://49.9.220.190:2155/wsw/tdigi/services/CalculateAutoPremium/v4: cvc-simple-type 1: element NumberOfYear value 'TC11000072' is not a valid instance of type {http://www.w3.org/2001/XMLSchema}integer
+04/04/2018 02:00:20 ResponseCaptureOntario Status is: 500
+04/04/2018 02:00:20 ResponseCaptureOntario org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+04/04/2018 02:00:20 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-020020
+04/04/2018 02:09:33 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-020933
+04/04/2018 02:09:34 ResponseCaptureOntario Status is: 200
+04/04/2018 02:09:35 ResponseCaptureOntario VehicleDriverUsage count: 1
+04/04/2018 02:09:35 ResponseCaptureOntario VehicleDriverUsage
+04/04/2018 02:09:35 ResponseCaptureOntario Coverage name: AB
+04/04/2018 02:09:35 ResponseCaptureOntario TermAmount :0
+04/04/2018 02:09:35 ResponseCaptureOntario Coverage name: COL
+04/04/2018 02:09:35 ResponseCaptureOntario TermAmount :0
+04/04/2018 02:09:35 ResponseCaptureOntario Coverage name: CMP
+04/04/2018 02:09:35 ResponseCaptureOntario TermAmount :0
+04/04/2018 02:09:35 ResponseCaptureOntario Coverage name: 9
+04/04/2018 02:09:35 ResponseCaptureOntario TermAmount :0
+04/04/2018 02:09:35 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-020935
+04/04/2018 07:13:15 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-071315
+04/04/2018 07:13:16 ResponseCaptureOntario Status is: 200
+04/04/2018 07:13:16 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+04/04/2018 07:13:16 ResponseCaptureOntario VehicleDriverUsage count: 1
+04/04/2018 07:13:16 ResponseCaptureOntario VehicleDriverUsage
+04/04/2018 07:13:16 ResponseCaptureOntario Coverage name: AB
+04/04/2018 07:13:16 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:13:16 ResponseCaptureOntario Coverage name: COL
+04/04/2018 07:13:16 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:13:16 ResponseCaptureOntario Coverage name: CMP
+04/04/2018 07:13:16 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:13:16 ResponseCaptureOntario Coverage name: 9
+04/04/2018 07:13:16 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:13:16 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-071316
+04/04/2018 07:24:48 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-072448
+04/04/2018 07:24:49 ResponseCaptureOntario Status is: 200
+04/04/2018 07:24:50 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+04/04/2018 07:24:50 ResponseCaptureOntario VehicleDriverUsage count: 1
+04/04/2018 07:24:50 ResponseCaptureOntario VehicleDriverUsage
+04/04/2018 07:24:50 ResponseCaptureOntario Coverage name: AB
+04/04/2018 07:24:50 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:24:50 ResponseCaptureOntario Coverage name: COL
+04/04/2018 07:24:50 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:24:50 ResponseCaptureOntario Coverage name: CMP
+04/04/2018 07:24:50 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:24:50 ResponseCaptureOntario Coverage name: 9
+04/04/2018 07:24:50 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:24:50 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-072450
+04/04/2018 07:25:10 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-072510
+04/04/2018 07:25:11 ResponseCaptureOntario Status is: 200
+04/04/2018 07:25:11 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+04/04/2018 07:25:11 ResponseCaptureOntario VehicleDriverUsage count: 1
+04/04/2018 07:25:11 ResponseCaptureOntario VehicleDriverUsage
+04/04/2018 07:25:11 ResponseCaptureOntario Coverage name: AB
+04/04/2018 07:25:11 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:25:11 ResponseCaptureOntario Coverage name: COL
+04/04/2018 07:25:11 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:25:11 ResponseCaptureOntario Coverage name: CMP
+04/04/2018 07:25:11 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:25:11 ResponseCaptureOntario Coverage name: 9
+04/04/2018 07:25:11 ResponseCaptureOntario TermAmount :0
+04/04/2018 07:25:11 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-072511
+04/04/2018 08:27:20 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-082720
+04/04/2018 08:27:21 ResponseCaptureOntario Status is: 200
+04/04/2018 08:27:21 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+04/04/2018 08:27:21 ResponseCaptureOntario VehicleDriverUsage count: 1
+04/04/2018 08:27:21 ResponseCaptureOntario VehicleDriverUsage
+04/04/2018 08:27:21 ResponseCaptureOntario Coverage name: AB
+04/04/2018 08:27:21 ResponseCaptureOntario TermAmount :0
+04/04/2018 08:27:21 ResponseCaptureOntario Coverage name: COL
+04/04/2018 08:27:21 ResponseCaptureOntario TermAmount :0
+04/04/2018 08:27:21 ResponseCaptureOntario Coverage name: CMP
+04/04/2018 08:27:21 ResponseCaptureOntario TermAmount :0
+04/04/2018 08:27:21 ResponseCaptureOntario Coverage name: 9
+04/04/2018 08:27:21 ResponseCaptureOntario TermAmount :0
+04/04/2018 08:27:21 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-082721
+04/04/2018 08:34:30 ResponseCaptureOntario TC11000072 Started at....... 2018-04-04-083430
+04/04/2018 08:34:31 ResponseCaptureOntario Status is: 200
+04/04/2018 08:34:31 ResponseCaptureOntario java.io.FileNotFoundException: C:\API\Rating\QuickWin_Auto_Quote\Rating\RunManager\Run Manager.xls (The process cannot access the file because it is being used by another process)
+04/04/2018 08:34:31 ResponseCaptureOntario VehicleDriverUsage count: 1
+04/04/2018 08:34:31 ResponseCaptureOntario VehicleDriverUsage
+04/04/2018 08:34:31 ResponseCaptureOntario Coverage name: AB
+04/04/2018 08:34:31 ResponseCaptureOntario TermAmount :0
+04/04/2018 08:34:31 ResponseCaptureOntario Coverage name: COL
+04/04/2018 08:34:31 ResponseCaptureOntario TermAmount :0
+04/04/2018 08:34:31 ResponseCaptureOntario Coverage name: CMP
+04/04/2018 08:34:31 ResponseCaptureOntario TermAmount :0
+04/04/2018 08:34:31 ResponseCaptureOntario Coverage name: 9
+04/04/2018 08:34:31 ResponseCaptureOntario TermAmount :0
+04/04/2018 08:34:31 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-04-083431
+05/04/2018 10:27:00 ResponseCaptureOntario TC11000057 Started at....... 2018-04-05-102700
+05/04/2018 10:27:03 ResponseCaptureOntario Status is: 200
+05/04/2018 10:27:03 ResponseCaptureOntario VehicleDriverUsage count: 2
+05/04/2018 10:27:03 ResponseCaptureOntario VehicleDriverUsage
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: TPL
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :386
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: AB
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :32
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: COL
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :230
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: CMP
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :151
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 43S
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :46
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 44
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :20
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 13D
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 16
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 5
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:03 ResponseCaptureOntario VehicleDriverUsage
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: TPL
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :144
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: AB
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :33
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: COL
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :143
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: CMP
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 43S
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :17
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 44
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 13D
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 16
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:03 ResponseCaptureOntario Coverage name: 5
+05/04/2018 10:27:03 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:03 ResponseCaptureOntario TC11000057 Completed at....... 2018-04-05-102703
+05/04/2018 10:27:03 ResponseCaptureOntario TC11000072 Started at....... 2018-04-05-102703
+05/04/2018 10:27:04 ResponseCaptureOntario Status is: 200
+05/04/2018 10:27:04 ResponseCaptureOntario VehicleDriverUsage count: 1
+05/04/2018 10:27:04 ResponseCaptureOntario VehicleDriverUsage
+05/04/2018 10:27:04 ResponseCaptureOntario Coverage name: TPL
+05/04/2018 10:27:04 ResponseCaptureOntario TermAmount :481
+05/04/2018 10:27:04 ResponseCaptureOntario Coverage name: AB
+05/04/2018 10:27:04 ResponseCaptureOntario TermAmount :36
+05/04/2018 10:27:04 ResponseCaptureOntario Coverage name: COL
+05/04/2018 10:27:04 ResponseCaptureOntario TermAmount :274
+05/04/2018 10:27:04 ResponseCaptureOntario Coverage name: CMP
+05/04/2018 10:27:04 ResponseCaptureOntario TermAmount :134
+05/04/2018 10:27:04 ResponseCaptureOntario Coverage name: 44
+05/04/2018 10:27:04 ResponseCaptureOntario TermAmount :30
+05/04/2018 10:27:04 ResponseCaptureOntario Coverage name: 13D
+05/04/2018 10:27:04 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:04 ResponseCaptureOntario Coverage name: 9
+05/04/2018 10:27:04 ResponseCaptureOntario TermAmount :0
+05/04/2018 10:27:04 ResponseCaptureOntario TC11000072 Completed at....... 2018-04-05-102704

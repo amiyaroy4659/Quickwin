@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/API_Rating/apache-jakarta-commons-httpclient.jar/apache-jakarta-commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/commons-httpclient-2.0.2.jar/commons-httpclient-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/commons-httpclient-3.1-source.jar/commons-httpclient-3.1-source.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/CSV.jar/opencsv-2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/HTTPClient-0.3-3.jar/HTTPClient-0.3-3.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/httpclient-4.2.3.jar/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/httpcore-4.2.3.jar/httpcore-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/java-json.jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/jdbc-oracle.jar/jdbc-oracle.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/json-simple.jar/json-simple.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/ojdbc6.jar/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/ojdbc14.jar/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/poi-bin-3.15-20160924/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/API_Rating/fillo-1.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

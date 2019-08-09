@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v4="http://wsc.tdigi/calculatepremium/calculateautopremium/request/v4">	<soapenv:Header/>	<soapenv:Body>		<v4:calculateAutoPremium>			<CalculateAutoPremiumRequest>				<AutomobilePolicy>					<PortfolioNumber>002749544</PortfolioNumber>					<ContractNumber>0000000000299</ContractNumber>					<EffectiveDate>2018-06-01T00:01:00-05:00</EffectiveDate>					<IsAutomaticRating>true</IsAutomaticRating>					<IsOriginalContract>true</IsOriginalContract>					<EndDate>2019-06-01T00:01:00-05:00</EndDate>					<RatingSource>CallCenter</RatingSource>					<Insurer>						<InsurerName/>						<InsurerNumber/>					</Insurer>					<LineOfBusiness>AUTOMOBILE</LineOfBusiness>					<VersionEffectiveDate>2018-06-01T00:01:00-05:00</VersionEffectiveDate>					<RateDate>2018-06-01-05:00</RateDate>					<ClientGroupNumber/>					<RatingGroupNumber/>					<TransactionType>NewBusiness</TransactionType>					<Address>						<DisplayPostalZipCode>T9K0A9</DisplayPostalZipCode>						<DisplayProvinceState>AB</DisplayProvinceState>					</Address>					<AutomobilePolicyCounters>
+	<AutomobilePolicyCounter>
+		<VehicleType>AT</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>AU</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>MC</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>MH</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>SM</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>TF</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>UT</VehicleType>
+	</AutomobilePolicyCounter>
+</AutomobilePolicyCounters>					<Coverages/>					<Vehicles><Vehicle><EffectiveDate>2018-06-01T00:01:00-05:00</EffectiveDate><IsActive>true</IsActive><IsRatedByValue>false</IsRatedByValue><PurchaseDate>2198-06-01-05:00</PurchaseDate><PurchasePrice>0</PurchasePrice><VehicleNumber>1</VehicleNumber><VehicleType>AU</VehicleType><SubVehicleType>AU</SubVehicleType><ClientAssessmentScore/><RSPInformation><IsRSPAssignedByAnalyst>false</IsRSPAssignedByAnalyst></RSPInformation><ProtectionDevices/><VehicleRatingGroup><AccidentBenefit>0</AccidentBenefit><Collision>0</Collision><Comprehensive>0</Comprehensive><ThirdParty>0</ThirdParty></VehicleRatingGroup><MakeModel><IsAntique>false</IsAntique><IsFiberglass>false</IsFiberglass><IsHighPerformance>false</IsHighPerformance><IsModernClassic>false</IsModernClassic><IsModifiedVehicle>false</IsModifiedVehicle><IsNewVehicle>true</IsNewVehicle><IsOlderVehicle>false</IsOlderVehicle><IsWinterTire>false</IsWinterTire><VICCCode>8627</VICCCode><Year>2013</Year><BodyCode>2D</BodyCode><VICCVehicleCharacteristic><ABS>4</ABS><AirBags>5</AirBags><AudibleAlarm>1</AudibleAlarm><BodyStyle>2D</BodyStyle><CutOffSystem>1</CutOffSystem><Cylinder>4</Cylinder><DriveTrain>1</DriveTrain><HorsePower>101</HorsePower><IBCApproved>0</IBCApproved><Market>CA</Market><RetailPrice>16795</RetailPrice><SecurityKeySystem>1</SecurityKeySystem><Size>1</Size><StabilityControl>1</StabilityControl><TractionControl>1</TractionControl><VehicleGeneration>1</VehicleGeneration><Weight>1065</Weight><Wheelbase>2301</Wheelbase><ForcedInduction>N</ForcedInduction><Fuel>G</Fuel><Hybrid/></VICCVehicleCharacteristic></MakeModel><VehicleAlbertaGrid><RateDate>2018-06-01-05:00</RateDate></VehicleAlbertaGrid><RatingVehicleInfo><IsAddedOnPolicyVersion>false</IsAddedOnPolicyVersion><IsCappingEvaluationRequired>false</IsCappingEvaluationRequired><IsRenewed>false</IsRenewed></RatingVehicleInfo></Vehicle><Vehicle><EffectiveDate>2018-06-01T00:01:00-05:00</EffectiveDate><IsActive>true</IsActive><IsRatedByValue>false</IsRatedByValue><PurchaseDate>2199-06-01-05:00</PurchaseDate><PurchasePrice>0</PurchasePrice><VehicleNumber>2</VehicleNumber><VehicleType>AU</VehicleType><SubVehicleType>AU</SubVehicleType><ClientAssessmentScore/><RSPInformation><IsRSPAssignedByAnalyst>false</IsRSPAssignedByAnalyst></RSPInformation><ProtectionDevices/><VehicleRatingGroup><AccidentBenefit>0</AccidentBenefit><Collision>0</Collision><Comprehensive>0</Comprehensive><ThirdParty>0</ThirdParty></VehicleRatingGroup><MakeModel><IsAntique>false</IsAntique><IsFiberglass>false</IsFiberglass><IsHighPerformance>false</IsHighPerformance><IsModernClassic>false</IsModernClassic><IsModifiedVehicle>false</IsModifiedVehicle><IsNewVehicle>true</IsNewVehicle><IsOlderVehicle>false</IsOlderVehicle><IsWinterTire>false</IsWinterTire><VICCCode>5193</VICCCode><Year>2015</Year><BodyCode>2D</BodyCode><VICCVehicleCharacteristic><ABS>4</ABS><AirBags>5</AirBags><AudibleAlarm>1</AudibleAlarm><BodyStyle>2D</BodyStyle><CutOffSystem>1</CutOffSystem><Cylinder>6</Cylinder><DriveTrain>1</DriveTrain><HorsePower>321</HorsePower><IBCApproved>1</IBCApproved><Market>CA</Market><RetailPrice>53450</RetailPrice><SecurityKeySystem>1</SecurityKeySystem><Size>5</Size><StabilityControl>1</StabilityControl><TractionControl>1</TractionControl><VehicleGeneration>1</VehicleGeneration><Weight>1601</Weight><Wheelbase>2776</Wheelbase><ForcedInduction>N</ForcedInduction><Fuel>G</Fuel><Hybrid/></VICCVehicleCharacteristic></MakeModel><VehicleAlbertaGrid><RateDate>2018-06-01-05:00</RateDate></VehicleAlbertaGrid><RatingVehicleInfo><IsAddedOnPolicyVersion>false</IsAddedOnPolicyVersion><IsCappingEvaluationRequired>false</IsCappingEvaluationRequired><IsRenewed>false</IsRenewed></RatingVehicleInfo></Vehicle><Vehicle><EffectiveDate>2018-06-01T00:01:00-05:00</EffectiveDate><IsActive>true</IsActive><IsRatedByValue>false</IsRatedByValue><PurchaseDate>2200-06-01-05:00</PurchaseDate><PurchasePrice>0</PurchasePrice><VehicleNumber>3</VehicleNumber><VehicleType>AU</VehicleType><SubVehicleType>AU</SubVehicleType><ClientAssessmentScore/><RSPInformation><IsRSPAssignedByAnalyst>false</IsRSPAssignedByAnalyst></RSPInformation><ProtectionDevices/><VehicleRatingGroup><AccidentBenefit>0</AccidentBenefit><Collision>0</Collision><Comprehensive>0</Comprehensive><ThirdParty>0</ThirdParty></VehicleRatingGroup><MakeModel><IsAntique>false</IsAntique><IsFiberglass>false</IsFiberglass><IsHighPerformance>false</IsHighPerformance><IsModernClassic>false</IsModernClassic><IsModifiedVehicle>false</IsModifiedVehicle><IsNewVehicle>true</IsNewVehicle><IsOlderVehicle>false</IsOlderVehicle><IsWinterTire>false</IsWinterTire><VICCCode>8956</VICCCode><Year>2016</Year><BodyCode>2D</BodyCode><VICCVehicleCharacteristic><ABS>4</ABS><AirBags>5</AirBags><AudibleAlarm>1</AudibleAlarm><BodyStyle>2D</BodyStyle><CutOffSystem>1</CutOffSystem><Cylinder>4</Cylinder><DriveTrain>1</DriveTrain><HorsePower>240</HorsePower><IBCApproved>0</IBCApproved><Market>CA</Market><RetailPrice>38010</RetailPrice><SecurityKeySystem>1</SecurityKeySystem><Size>4</Size><StabilityControl>1</StabilityControl><TractionControl>1</TractionControl><VehicleGeneration>1</VehicleGeneration><Weight>1425</Weight><Wheelbase>2690</Wheelbase><ForcedInduction>T</ForcedInduction><Fuel>G</Fuel><Hybrid/></VICCVehicleCharacteristic></MakeModel><VehicleAlbertaGrid><RateDate>2018-06-01-05:00</RateDate></VehicleAlbertaGrid><RatingVehicleInfo><IsAddedOnPolicyVersion>false</IsAddedOnPolicyVersion><IsCappingEvaluationRequired>false</IsCappingEvaluationRequired><IsRenewed>false</IsRenewed></RatingVehicleInfo></Vehicle><Vehicle><EffectiveDate>2018-06-01T00:01:00-05:00</EffectiveDate><IsActive>true</IsActive><IsRatedByValue>false</IsRatedByValue><PurchaseDate>2201-06-01-05:00</PurchaseDate><PurchasePrice>0</PurchasePrice><VehicleNumber>4</VehicleNumber><VehicleType>AU</VehicleType><SubVehicleType>AU</SubVehicleType><ClientAssessmentScore/><RSPInformation><IsRSPAssignedByAnalyst>false</IsRSPAssignedByAnalyst></RSPInformation><ProtectionDevices/><VehicleRatingGroup><AccidentBenefit>0</AccidentBenefit><Collision>0</Collision><Comprehensive>0</Comprehensive><ThirdParty>0</ThirdParty></VehicleRatingGroup><MakeModel><IsAntique>false</IsAntique><IsFiberglass>false</IsFiberglass><IsHighPerformance>false</IsHighPerformance><IsModernClassic>false</IsModernClassic><IsModifiedVehicle>false</IsModifiedVehicle><IsNewVehicle>true</IsNewVehicle><IsOlderVehicle>false</IsOlderVehicle><IsWinterTire>false</IsWinterTire><VICCCode>1476</VICCCode><Year>2014</Year><BodyCode>4D</BodyCode><VICCVehicleCharacteristic><ABS>4</ABS><AirBags>5</AirBags><AudibleAlarm>0</AudibleAlarm><BodyStyle>4D</BodyStyle><CutOffSystem>1</CutOffSystem><Cylinder>4</Cylinder><DriveTrain>1</DriveTrain><HorsePower>148</HorsePower><IBCApproved>1</IBCApproved><Market>CA</Market><RetailPrice>17455</RetailPrice><SecurityKeySystem>1</SecurityKeySystem><Size>4</Size><StabilityControl>1</StabilityControl><TractionControl>1</TractionControl><VehicleGeneration>5</VehicleGeneration><Weight>1216</Weight><Wheelbase>2700</Wheelbase><ForcedInduction>N</ForcedInduction><Fuel>G</Fuel><Hybrid/></VICCVehicleCharacteristic></MakeModel><VehicleAlbertaGrid><RateDate>2018-06-01-05:00</RateDate></VehicleAlbertaGrid><RatingVehicleInfo><IsAddedOnPolicyVersion>false</IsAddedOnPolicyVersion><IsCappingEvaluationRequired>false</IsCappingEvaluationRequired><IsRenewed>false</IsRenewed></RatingVehicleInfo></Vehicle></Vehicles>					<VehicleDriverUsages>						<VehicleDriverUsage>							<AnnualMileage>10000</AnnualMileage>							<BusinessMileage>0</BusinessMileage>							<WorkMileage>0</WorkMileage>							<DriverNumber>2</DriverNumber>							<VehicleNumber>1</VehicleNumber>							<Risk>								<RateDate>2018-06-01-05:00</RateDate>								<Territory><RiskPostalCodeFSA>T9K</RiskPostalCodeFSA><RiskPostalCodeLDU>0A9</RiskPostalCodeLDU></Territory>								<Coverages><Coverage><CoverageCode>TPL</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>1000000</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>AB</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>COL</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>500</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>CMP</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>250</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>39</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>44</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>1000000</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>13D</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage></Coverages>								<DiscountSurcharges>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R7</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R9</DiscountSurchargeCode>
+		<IsActive>true</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R10</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAP</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISCG</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISML</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3O</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISRC</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAPMA</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISHY</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR4</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD5</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMT</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMB</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+</DiscountSurcharges>							</Risk>							<UBIVehicleDriverDiscount/>							<CurrentVehicleUsageType>Principal</CurrentVehicleUsageType>						</VehicleDriverUsage>					<VehicleDriverUsage><AnnualMileage>10000</AnnualMileage><BusinessMileage>0</BusinessMileage><WorkMileage>0</WorkMileage><DriverNumber>3</DriverNumber><VehicleNumber>2</VehicleNumber><Risk><RateDate>2018-06-01-05:00</RateDate><Territory><RiskPostalCodeFSA>T9K</RiskPostalCodeFSA><RiskPostalCodeLDU>0A9</RiskPostalCodeLDU></Territory><Coverages><Coverage><CoverageCode>TPL</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>1000000</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>AB</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>CMP</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>250</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>39</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>44</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>1000000</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage></Coverages><DiscountSurcharges>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R7</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R9</DiscountSurchargeCode>
+		<IsActive>true</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R10</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAP</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISCG</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISML</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3O</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISRC</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAPMA</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISHY</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR4</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD5</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMT</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMB</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+</DiscountSurcharges></Risk><UBIVehicleDriverDiscount/><CurrentVehicleUsageType>Principal</CurrentVehicleUsageType></VehicleDriverUsage><VehicleDriverUsage><AnnualMileage>10000</AnnualMileage><BusinessMileage>0</BusinessMileage><WorkMileage>0</WorkMileage><DriverNumber>4</DriverNumber><VehicleNumber>2</VehicleNumber><Risk><RateDate>2018-06-01-05:00</RateDate><Territory><RiskPostalCodeFSA>T9K</RiskPostalCodeFSA><RiskPostalCodeLDU>0A9</RiskPostalCodeLDU></Territory><Coverages><Coverage><CoverageCode>TPL</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>1000000</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>AB</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>CMP</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>250</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>39</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>44</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>1000000</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage></Coverages><DiscountSurcharges>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R7</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R9</DiscountSurchargeCode>
+		<IsActive>true</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R10</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAP</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISCG</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISML</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3O</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISRC</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAPMA</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISHY</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR4</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD5</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMT</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMB</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+</DiscountSurcharges></Risk><UBIVehicleDriverDiscount/><CurrentVehicleUsageType>Occasional</CurrentVehicleUsageType></VehicleDriverUsage><VehicleDriverUsage><AnnualMileage>10000</AnnualMileage><BusinessMileage>0</BusinessMileage><WorkMileage>0</WorkMileage><DriverNumber>4</DriverNumber><VehicleNumber>3</VehicleNumber><Risk><RateDate>2018-06-01-05:00</RateDate><Territory><RiskPostalCodeFSA>T9K</RiskPostalCodeFSA><RiskPostalCodeLDU>0A9</RiskPostalCodeLDU></Territory><Coverages><Coverage><CoverageCode>CMP</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>250</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>16</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage></Coverages><DiscountSurcharges>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R7</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R9</DiscountSurchargeCode>
+		<IsActive>true</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R10</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAP</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISCG</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISML</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3O</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISRC</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAPMA</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISHY</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR4</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD5</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMT</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMB</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+</DiscountSurcharges></Risk><UBIVehicleDriverDiscount/><CurrentVehicleUsageType>Principal</CurrentVehicleUsageType></VehicleDriverUsage><VehicleDriverUsage><AnnualMileage>12000</AnnualMileage><BusinessMileage>0</BusinessMileage><WorkMileage>0</WorkMileage><DriverNumber>1</DriverNumber><VehicleNumber>4</VehicleNumber><Risk><RateDate>2018-06-01-05:00</RateDate><Territory><RiskPostalCodeFSA>T9K</RiskPostalCodeFSA><RiskPostalCodeLDU>0A9</RiskPostalCodeLDU></Territory><Coverages><Coverage><CoverageCode>TPL</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>1000000</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>AB</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>COL</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>500</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>CMP</CoverageCode><CoverageTypeCode>Coverage</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>250</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>39</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>43S</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>0</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage><Coverage><CoverageCode>44</CoverageCode><CoverageTypeCode>Endorsement</CoverageTypeCode><IsActive>true</IsActive><Limit>1000000</Limit><RatedDeductible>0</RatedDeductible><Premium/></Coverage></Coverages><DiscountSurcharges>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R7</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R9</DiscountSurchargeCode>
+		<IsActive>true</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R10</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAP</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISCG</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISML</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>R3O</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISRC</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>CAPMA</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISHY</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISR4</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD1</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>SURD5</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMT</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+	<DiscountSurcharge>
+		<DiscountSurchargeCode>DISMB</DiscountSurchargeCode>
+		<IsActive>false</IsActive>
+	</DiscountSurcharge>
+</DiscountSurcharges></Risk><UBIVehicleDriverDiscount/><CurrentVehicleUsageType>Principal</CurrentVehicleUsageType></VehicleDriverUsage></VehicleDriverUsages>					<DriverInformations><DriverInformation><DriverNumber>1</DriverNumber><EffectiveDate>2018-06-01</EffectiveDate><IsActive>true</IsActive><IsAddedOnPolicyVersion>false</IsAddedOnPolicyVersion><IsPrincipalOnAnotherTDAPolicy>false</IsPrincipalOnAnotherTDAPolicy><KmFromPrimaryResidence>0</KmFromPrimaryResidence><DriverExperienceDates><DriverExperienceDate><VehicleType>AU</VehicleType></DriverExperienceDate></DriverExperienceDates><DriverExperiences>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+</DriverExperiences><DriverAlbertaGrid/><DriverCounters>
+		<DriverCounter>
+			<VehicleType>AT</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>AU</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MC</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MH</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>SM</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>TF</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>UT</VehicleType>
+		</DriverCounter>
+	</DriverCounters><Individual><BirthDate>1973-06-01</BirthDate><MaritalStatus>Married</MaritalStatus><Gender>Male</Gender><LicenseSuspensions/><Licenses><License><IsDriverTraining>false</IsDriverTraining><IsLicenseNumberAccepted>false</IsLicenseNumberAccepted><LicenseClassCode>PrivatePassenger</LicenseClassCode><LicenseDate>1976-08-01-05:00</LicenseDate><LicenseNumber/></License></Licenses><Convictions/><PolicyClaims/></Individual></DriverInformation><DriverInformation><DriverNumber>2</DriverNumber><EffectiveDate>2018-06-01</EffectiveDate><IsActive>true</IsActive><IsAddedOnPolicyVersion>false</IsAddedOnPolicyVersion><IsPrincipalOnAnotherTDAPolicy>false</IsPrincipalOnAnotherTDAPolicy><KmFromPrimaryResidence>0</KmFromPrimaryResidence><DriverExperienceDates><DriverExperienceDate><VehicleType>AU</VehicleType></DriverExperienceDate></DriverExperienceDates><DriverExperiences>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+</DriverExperiences><DriverAlbertaGrid/><DriverCounters>
+		<DriverCounter>
+			<VehicleType>AT</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>AU</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MC</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MH</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>SM</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>TF</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>UT</VehicleType>
+		</DriverCounter>
+	</DriverCounters><Individual><BirthDate>1973-06-01</BirthDate><MaritalStatus>Married</MaritalStatus><Gender>Female</Gender><LicenseSuspensions/><Licenses><License><IsDriverTraining>false</IsDriverTraining><IsLicenseNumberAccepted>false</IsLicenseNumberAccepted><LicenseClassCode>PrivatePassenger</LicenseClassCode><LicenseDate>1976-08-01-05:00</LicenseDate><LicenseNumber/></License></Licenses><Convictions/><PolicyClaims/></Individual></DriverInformation><DriverInformation><DriverNumber>3</DriverNumber><EffectiveDate>2018-06-01</EffectiveDate><IsActive>true</IsActive><IsAddedOnPolicyVersion>false</IsAddedOnPolicyVersion><IsPrincipalOnAnotherTDAPolicy>false</IsPrincipalOnAnotherTDAPolicy><KmFromPrimaryResidence>0</KmFromPrimaryResidence><DriverExperienceDates><DriverExperienceDate><VehicleType>AU</VehicleType></DriverExperienceDate></DriverExperienceDates><DriverExperiences>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+</DriverExperiences><DriverAlbertaGrid/><DriverCounters>
+		<DriverCounter>
+			<VehicleType>AT</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>AU</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MC</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MH</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>SM</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>TF</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>UT</VehicleType>
+		</DriverCounter>
+	</DriverCounters><Individual><BirthDate>1973-06-01</BirthDate><MaritalStatus>Single</MaritalStatus><Gender>Female</Gender><LicenseSuspensions/><Licenses><License><IsDriverTraining>true</IsDriverTraining><IsLicenseNumberAccepted>false</IsLicenseNumberAccepted><LicenseClassCode>PrivatePassenger</LicenseClassCode><LicenseDate>2002-10-01-05:00</LicenseDate><LicenseNumber/></License></Licenses><Convictions/><PolicyClaims/></Individual></DriverInformation><DriverInformation><DriverNumber>4</DriverNumber><EffectiveDate>2018-06-01</EffectiveDate><IsActive>true</IsActive><IsAddedOnPolicyVersion>false</IsAddedOnPolicyVersion><IsPrincipalOnAnotherTDAPolicy>false</IsPrincipalOnAnotherTDAPolicy><KmFromPrimaryResidence>0</KmFromPrimaryResidence><DriverExperienceDates><DriverExperienceDate><VehicleType>AU</VehicleType></DriverExperienceDate></DriverExperienceDates><DriverExperiences>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>1</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>2</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>3</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>4</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>5</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>6</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>7</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>8</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>9</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>AtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>ComprehensiveClaim</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>NotAtFaultAccident</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>MinorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>MajorConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SeriousConviction</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SuspensionLessThanOneYear</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+<DriverExperience>
+<YearOld>10</YearOld>
+<IncidentType>SuspensionOneYearOrMore</IncidentType>
+<VehicleType>AU</VehicleType>
+</DriverExperience>
+</DriverExperiences><DriverAlbertaGrid/><DriverCounters>
+		<DriverCounter>
+			<VehicleType>AT</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>AU</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MC</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MH</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>SM</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>TF</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>UT</VehicleType>
+		</DriverCounter>
+	</DriverCounters><Individual><BirthDate>1973-06-01</BirthDate><MaritalStatus>Single</MaritalStatus><Gender>Female</Gender><LicenseSuspensions/><Licenses><License><IsDriverTraining>true</IsDriverTraining><IsLicenseNumberAccepted>false</IsLicenseNumberAccepted><LicenseClassCode>PrivatePassenger</LicenseClassCode><LicenseDate>2005-06-01-05:00</LicenseDate><LicenseNumber/></License></Licenses><Convictions/><PolicyClaims/></Individual></DriverInformation></DriverInformations>					<DriverVehicleList/>										<LocationList/>					<Territory><RiskPostalCodeFSA>T9K</RiskPostalCodeFSA><RiskPostalCodeLDU>0A9</RiskPostalCodeLDU></Territory>				</AutomobilePolicy>			</CalculateAutoPremiumRequest>			<EnvironmentIdentification>				<EnvironmentID>F01</EnvironmentID>			</EnvironmentIdentification>		</v4:calculateAutoPremium>	</soapenv:Body></soapenv:Envelope>

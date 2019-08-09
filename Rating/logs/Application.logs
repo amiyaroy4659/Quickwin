@@ -1,0 +1,99 @@
+07:41:01,545 ERROR DriverClassOntario<strong>{1}</strong>:1422 - Warning: No value found in DataSheet....
+07:41:01,545 ERROR DriverClassOntario<strong>{1}</strong>:1423 - java.lang.NullPointerException
+07:41:01,561  INFO DriverClassOntario<strong>{1}</strong>:85 - TC11000087 Started at....... 2018-04-25-074101
+07:41:01,592  INFO DriverClassOntario<strong>{1}</strong>:98 - Count: 5
+07:41:01,592  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: PortfolioNumber
+07:41:01,592  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: ContractNumber
+07:41:01,592  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: EffectiveDate
+07:41:01,623  INFO DriverClassOntario<strong>{1}</strong>:52 - date is: 
+07:41:01,623  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsAutomaticRating
+07:41:01,623  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsOriginalContract
+07:41:01,623  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: EndDate
+07:41:01,639  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: RatingSource
+07:41:01,639  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: InsurerName
+07:41:01,654  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: LineOfBusiness
+07:41:01,654  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: VersionEffectiveDate
+07:41:01,670  INFO DriverClassOntario<strong>{1}</strong>:52 - date is: 
+07:41:01,670  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: RateDate
+07:41:01,686  INFO DriverClassOntario<strong>{1}</strong>:52 - date is: 
+07:41:01,686  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: ClientGroupNumber
+07:41:01,701  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: RatingGroupNumber
+07:41:01,717  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: TransactionType
+07:41:01,717  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: DisplayPostalZipCode
+07:41:01,732  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: DisplayProvinceState
+07:41:01,732  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: AutomobilePolicyCounters
+07:41:01,732  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: Coverages
+07:41:01,732  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: Vehicles
+07:41:01,732  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: AnnualMileage
+07:41:01,748  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: BusinessMileage
+07:41:01,764  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: WorkMileage
+07:41:01,779  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: DriverNumber
+07:41:01,795  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: VehicleNumber
+07:41:01,795  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: RateDate
+07:41:01,810  INFO DriverClassOntario<strong>{1}</strong>:52 - date is: 
+07:41:01,810  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: Territory
+07:41:01,810  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: Coverages
+07:41:01,826  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: DiscountSurcharges
+07:41:01,826  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: UBIVehicleDriverDiscount
+07:41:01,826  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: CurrentVehicleUsageType
+07:41:01,826  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: DriverInformations
+07:41:01,826  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: DriverVehicleList
+07:41:01,826  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: Territory
+07:41:01,826  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: EnvironmentID
+07:41:01,935  INFO DriverClassOntario<strong>{1}</strong>:196 - Number of Vehicles: 1
+07:41:01,951  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: EffectiveDate
+07:41:01,966  INFO DriverClassOntario<strong>{1}</strong>:52 - date is: 
+07:41:01,966  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsActive
+07:41:01,966  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsRatedByValue
+07:41:01,982  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: PurchasePrice
+07:41:01,998 ERROR DriverClassOntario<strong>{1}</strong>:838 - Warning: No value found in DataSheet....
+07:41:01,998 ERROR DriverClassOntario<strong>{1}</strong>:839 - java.lang.NullPointerException
+07:41:01,998  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: VehicleNumber
+07:41:01,998  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: VehicleType
+07:41:02,013  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: SubVehicleType
+07:41:02,013  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: RSPInformation
+07:41:02,013  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsRSPAssignedByAnalyst
+07:41:02,013  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: ProtectionDevices
+07:41:02,013  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: VehicleRatingGroup
+07:41:02,013  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: AccidentBenefit
+07:41:02,044 ERROR DriverClassOntario<strong>{1}</strong>:838 - Warning: No value found in DataSheet....
+07:41:02,044 ERROR DriverClassOntario<strong>{1}</strong>:839 - java.lang.NullPointerException
+07:41:02,044  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: Collision
+07:41:02,060 ERROR DriverClassOntario<strong>{1}</strong>:838 - Warning: No value found in DataSheet....
+07:41:02,060 ERROR DriverClassOntario<strong>{1}</strong>:839 - java.lang.NullPointerException
+07:41:02,060  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: Comprehensive
+07:41:02,061 ERROR DriverClassOntario<strong>{1}</strong>:838 - Warning: No value found in DataSheet....
+07:41:02,061 ERROR DriverClassOntario<strong>{1}</strong>:839 - java.lang.NullPointerException
+07:41:02,061  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: ThirdParty
+07:41:02,092 ERROR DriverClassOntario<strong>{1}</strong>:838 - Warning: No value found in DataSheet....
+07:41:02,092 ERROR DriverClassOntario<strong>{1}</strong>:839 - java.lang.NullPointerException
+07:41:02,092  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: MakeModel
+07:41:02,092  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsAntique
+07:41:02,092 ERROR DriverClassOntario<strong>{1}</strong>:434 - Warning: No value found in DataSheet....
+07:41:02,092 ERROR DriverClassOntario<strong>{1}</strong>:435 - java.lang.NullPointerException
+07:41:02,108  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsFiberglass
+07:41:02,108  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsHighPerformance
+07:41:02,108  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsModernClassic
+07:41:02,108  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsModifiedVehicle
+07:41:02,123  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsNewVehicle
+07:41:02,123  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsOlderVehicle
+07:41:02,123  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsWinterTire
+07:41:02,139  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: Year
+07:41:02,154 ERROR DriverClassOntario<strong>{1}</strong>:838 - Warning: No value found in DataSheet....
+07:41:02,154 ERROR DriverClassOntario<strong>{1}</strong>:839 - java.lang.NullPointerException
+07:41:02,154  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: CCNumber
+07:41:02,170  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: RatingVehicleInfo
+07:41:02,170  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsAddedOnPolicyVersion
+07:41:02,170  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsCappingEvaluationRequired
+07:41:02,170  INFO DriverClassOntario<strong>{1}</strong>:37 - elementName: IsRenewed
+07:41:02,201 ERROR DriverClassOntario<strong>{1}</strong>:926 - Warning: No value found in DataSheet....
+07:41:02,201 ERROR DriverClassOntario<strong>{1}</strong>:927 - java.lang.NullPointerException
+07:41:02,201  INFO DriverClassOntario<strong>{1}</strong>:353 - Number of Occasional Drivers of Vehicle One: 0
+07:41:02,232  INFO DriverClassOntario<strong>{1}</strong>:514 - Number of Drivers 0
+07:41:02,279  INFO DriverClassOntario<strong>{1}</strong>:52 - date is: 01/06/2018
+07:41:02,295  INFO DriverClassOntario<strong>{1}</strong>:52 - date is: 
+07:41:02,622  INFO DriverClassOntario<strong>{1}</strong>:160 - postalCode is: TC11000087
+07:41:02,622  INFO DriverClassOntario<strong>{1}</strong>:160 - postalCode is: TC11000087
+07:41:02,622  INFO DriverClassOntario<strong>{1}</strong>:160 - postalCode is: TC11000087
+07:41:02,622  INFO DriverClassOntario<strong>{1}</strong>:160 - postalCode is: TC11000087
+07:41:02,669  INFO DriverClassOntario<strong>{1}</strong>:102 - TC11000087 Completed at 2018-04-25-074102

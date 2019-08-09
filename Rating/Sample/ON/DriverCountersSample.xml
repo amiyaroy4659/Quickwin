@@ -1,0 +1,23 @@
+<DriverCounters>
+		<DriverCounter>
+			<VehicleType>AT</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>AU</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MC</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>MH</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>SM</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>TF</VehicleType>
+		</DriverCounter>
+		<DriverCounter>
+			<VehicleType>UT</VehicleType>
+		</DriverCounter>
+	</DriverCounters>

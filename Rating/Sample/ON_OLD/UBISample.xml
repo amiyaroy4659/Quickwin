@@ -1,0 +1,10 @@
+<UBIVehicleDriverDiscount>
+ <UBIDriverIsActive/>
+ <UBINumberOfDays/>
+ <UBINumberOfKM/>
+ <UBIScore/>
+ <UBIScoreDate/>
+ <UBIDiscountPercentage/>
+ <UBIDiscountType/>
+</UBIVehicleDriverDiscount>
+

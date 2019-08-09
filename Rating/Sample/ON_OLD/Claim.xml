@@ -1,0 +1,16 @@
+<PolicyClaim>
+    <ClaimDate></ClaimDate>
+    <IsCatastrophe></IsCatastrophe>
+    <IsIncidentOnly></IsIncidentOnly>
+    <IsPardonned></IsPardonned>
+    <OriginalRiskType></OriginalRiskType>
+    <ResponsibilityPercentage></ResponsibilityPercentage>
+    <TotalPaidAmount></TotalPaidAmount>
+	<LossKinds>
+        <LossKind>
+            <LossCode></LossCode>
+            <PaidAmount></PaidAmount>
+         </LossKind>
+    </LossKinds>
+</PolicyClaim>
+

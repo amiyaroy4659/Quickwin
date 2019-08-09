@@ -1,0 +1,13 @@
+<claim>    
+    <claimId></claimId>
+    <claimDate></claimDate>
+    <isCatastrophe></isCatastrophe>
+    <responsabilityPercentage></responsabilityPercentage>
+    <totalPaidAmount></totalPaidAmount>
+    <isIncidentOnly></isIncidentOnly>
+    <isPardoned></isPardoned>
+    <claimCode></claimCode>
+	<riskType/>
+    <manuallySetMinorInd></manuallySetMinorInd>
+    <pardonReason></pardonReason>
+</claim>

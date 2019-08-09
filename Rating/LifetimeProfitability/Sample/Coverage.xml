@@ -1,0 +1,13 @@
+<coverage>
+    <coverableId></coverableId>
+    <coverableType></coverableType>
+    <patternCode></patternCode>
+    <coverageType></coverageType>
+    <isRecommended></isRecommended>
+    <covTerms>
+        <covTerm>
+            <patternCode></patternCode>
+            <recommendedValue></recommendedValue>
+        </covTerm>
+    </covTerms>
+</coverage>

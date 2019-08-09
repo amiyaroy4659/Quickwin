@@ -1,0 +1,18 @@
+<VehicleDriverUsage>
+	<AnnualMileage/>
+	<BusinessMileage/>
+	<WorkMileage/>
+	<DriverNumber/>
+	<VehicleNumber/>
+	<Risk>
+		<RateDate/>
+		<Territory>
+			<RiskPostalCodeFSA/>
+			<RiskPostalCodeLDU/>
+		</Territory>
+		<Coverages/>
+	</Risk>
+	<VehicleClassification/>
+	<UBIVehicleDriverDiscount/>
+	<CurrentVehicleUsageType/>
+</VehicleDriverUsage>

@@ -1,0 +1,23 @@
+	<AutomobilePolicyCounters>
+	<AutomobilePolicyCounter>
+		<VehicleType>AT</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>AU</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>MC</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>MH</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>SM</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>TF</VehicleType>
+	</AutomobilePolicyCounter>
+	<AutomobilePolicyCounter>
+		<VehicleType>UT</VehicleType>
+	</AutomobilePolicyCounter>
+</AutomobilePolicyCounters>
